@@ -1,6 +1,4 @@
-# ECE 385 Final Project
-
-FPGA Pokemon Simulator by Ben Kim (kijungk3), Sooha Ryu (soohar2)
+# FPGA Pokemon Simulator
 
 ## How to Play
 
