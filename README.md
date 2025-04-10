@@ -1,5 +1,8 @@
 # FPGA Pokemon Simulator
 
+![map2](https://github.com/user-attachments/assets/01bd6fe8-ff52-41c1-a6d9-9183a4ec0a8d)
+
+
 ## How to Play
 
 The user can interact with the keyboard to start the game by pressing any keys approximately 5 seconds after the screen loads.
